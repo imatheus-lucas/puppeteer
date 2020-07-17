@@ -1,0 +1,11 @@
+{
+  "name": "puppeteer",
+  "verison": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "puppeteer": "^4.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
